@@ -1,0 +1,31 @@
+{
+    "meetings":[
+      {
+        "date": "21/04/1999",
+        "hour": "2:00pm",
+        "title": "Reunion de ventas 2020",
+        "meetingType": {
+            "id": "1",
+            "name": "Junta de ventas"
+        },
+        "userLeader": {
+            "id": "2",
+            "first_name": "Luis España"
+        },
+        "userResponsible": {
+            "id": "2",
+            "first_name": "Luis España"
+        },
+        "userCreator": {
+            "id": "2",
+            "first_name": "Yuselen Rivero"
+        },
+        "points": [
+          {
+            "id": "1",
+            "title": "Primer punto"
+          }
+        ]
+      }
+    ]
+}
